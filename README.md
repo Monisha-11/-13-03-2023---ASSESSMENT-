@@ -4,7 +4,7 @@
 ## NAME :- Monisha T
 ## REGISTER NUMBER :- 212221240029
 
-### 1) Print the Square pattern
+### 1) Program to print square pattern using star(*)
 
 #### PROGRAM :-
 
@@ -35,7 +35,7 @@ public class Main {
 
 <img width="278" alt="SQUARE" src="https://user-images.githubusercontent.com/93427240/224884703-dae7074b-6a3c-4e70-917f-fe08dab8ded4.png">
 
-### 2) print the bottom of the diamond pattern
+### 2) Program to print inverted pyramid pattern using star(*) 
 
 #### PROGRAM :-
 
@@ -72,7 +72,7 @@ public class BOTTOM_DIAMOND {
 
 <img width="284" alt="BOTTOM" src="https://user-images.githubusercontent.com/93427240/224885255-8f3f5f90-3cd2-4b70-8cef-2b0ddec5065f.png">
 
-### 3) print the right side pattern of diamond
+### 3) Program to print right half diamond pattern using star(*) 
 
 #### PROGRAM :-
 
